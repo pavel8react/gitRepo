@@ -1,1 +1,6 @@
 # gitRepo
+```
+Commit
+Push
+Pull
+```
