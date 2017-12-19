@@ -26,16 +26,18 @@
 
 **Discard** - descard last changes after commit and before push<br/>
 
-##Log ()
+## Log (команды внутри Logs, там где видны все ветки)
+<a href="https://ibb.co/diMpaR"><img src="https://image.ibb.co/iOrBpm/TEMP.png" alt="TEMP" border="0"></a>
 
 **Revert commit** - revert to previous version<br/>
+**Reset** - Hard reset => удаляет все коммиты которые еще небыли загружены<br/>
 
 # IMAGE UPLOADING
 
-## MEDIUM LINKED
+## MEDIUM LINKED preview
 <a href="https://ibb.co/goRNvR"><img src="https://preview.ibb.co/hM2vFR/football_1.jpg" alt="football_1" border="0"></a>
 
-## FULL LINKED
+## FULL LINKED preview
 <a href="https://ibb.co/goRNvR"><img src="https://image.ibb.co/cCOP9m/football_1.jpg" alt="football_1" border="0"></a>
 
 
