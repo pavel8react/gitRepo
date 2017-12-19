@@ -36,7 +36,7 @@
 <img align="right" width="100" height="100" src="https://pasteboard.co/GYR4I5e.png">
 <img align="right" width="100" height="100" src="https://pasteboard.co/GYR5qvw.png">
 
-<a href="https://imgbb.com/"><img src="https://image.ibb.co/hGvwpm/Mitsubishi_2011_natanya.png" alt="Mitsubishi_2011_natanya" border="0"></a>
+<a href="https://pasteboard.co/GYR4I5e.png"><img src="https://pasteboard.co/GYR4I5e.png" alt="Mitsubishi_2011_natanya" border="0"></a>
 
 
 <br/>
