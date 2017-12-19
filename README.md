@@ -29,29 +29,14 @@
 ##Log ()
 
 **Revert commit** - revert to previous version<br/>
-![log](http://prntscr.com/hpccm6) <br/>
 
+# IMAGE UPLOADING
 
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
-<img align="right" width="100" height="100" src="https://pasteboard.co/GYR4I5e.png">
-<img align="right" width="100" height="100" src="https://pasteboard.co/GYR5qvw.png">
-
-<a href="https://pasteboard.co/GYR4I5e.png"><img src="https://pasteboard.co/GYR4I5e.png" alt="Mitsubishi_2011_natanya" border="0"></a>
-
-
-<br/>
-https://ibb.co/giKNUm
-
-
-#MEDIUM LINKED
+## MEDIUM LINKED
 <a href="https://ibb.co/goRNvR"><img src="https://preview.ibb.co/hM2vFR/football_1.jpg" alt="football_1" border="0"></a>
 
-#FULL LINKED
+## FULL LINKED
 <a href="https://ibb.co/goRNvR"><img src="https://image.ibb.co/cCOP9m/football_1.jpg" alt="football_1" border="0"></a>
-
-#TEST
-<a href="https://pasteboard.co/GYR4I5e.png"><img src="https://pasteboard.co/GYR4I5e.png" alt="football_1" border="0"></a>
-
 
 
 
