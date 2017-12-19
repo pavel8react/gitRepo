@@ -19,15 +19,16 @@
 
 
 
-**Clone** - clode repo to local machine
-**Commit massege** - что было сделано
-**Push** - upload to repository
-**Pull** - download last version from repo
+**Clone** - clode repo to local machine<br/>
+**Commit massege** - что было сделано<br/>
+**Push** - upload to repository<br/>
+**Pull** - download last version from repo<br/>
 
-**Discard** - descard last changes after commit and before push
+**Discard** - descard last changes after commit and before push<br/>
 
 ##Log ()
 
 **Revert commit** - revert to previous version
-![log](http://prntscr.com/hpccm6)
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![log](http://prntscr.com/hpccm6) <br/>
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)<br/>
+![Alt text](relative/path/to/img.jpg?raw=true "Title")<br/>
