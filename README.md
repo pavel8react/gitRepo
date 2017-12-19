@@ -30,6 +30,7 @@
 
 **Revert commit** - revert to previous version<br/>
 ![log](http://prntscr.com/hpccm6) <br/>
+<img align="right" width="100" height="100" src="http://prntscr.com/hpccm6">
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)<br/>
 ![Alt text](relative/path/to/img.jpg?raw=true "Title")<br/>
 
