@@ -32,13 +32,15 @@
 **Revert commit** - revert to previous version<br/>
 **Reset** - Hard reset => удаляет все коммиты которые еще небыли загружены<br/>
 
-# IMAGE UPLOADING
+### IMAGE UPLOADING  (через сервис ibb.com)
 
-## MEDIUM LINKED preview
-<a href="https://ibb.co/goRNvR"><img src="https://preview.ibb.co/hM2vFR/football_1.jpg" alt="football_1" border="0"></a>
+**NEW FORK** - Отдельная полностью не зависемая ветка. Можно использовать для создание feature...<br/>
 
-## FULL LINKED preview
-<a href="https://ibb.co/goRNvR"><img src="https://image.ibb.co/cCOP9m/football_1.jpg" alt="football_1" border="0"></a>
+**Double click on Branch** - cheackout для переключения между ветками
+
+## MERGE  Если нужно перенести готовую ветку в основную ветку (master), подтягиваем все изменения из ветки мастер с помощью merge (кликаем на master и merge) И В ВЕТКУ FEATURE добавится код из главной ветки. (СЛИЯНИЕ ВЕТОК)
+* Далее переходим в ветку Master и делаем слияние (merge) теперь все есть в master ветке
+* Удаляем ветку feature
 
 
 
