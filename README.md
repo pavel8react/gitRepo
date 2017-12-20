@@ -62,8 +62,6 @@
 * Cherry-pick commit in LOGS Для того что взять нужный коммит в другую ветку УРОК7 GB
 
 
-[pic](http://prntscr.com/hpz0eh)
-
 
 
 
