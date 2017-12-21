@@ -69,7 +69,7 @@
 * git push -> push to repository
 
 
-
+## Git commands from GeekBrains
 ```
 git log
 git show [ID коммита]
