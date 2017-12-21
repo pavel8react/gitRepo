@@ -62,6 +62,10 @@
 * Cherry-pick commit in LOGS Для того что взять нужный коммит в другую ветку УРОК7 GB
 
 
+# GIT CONSOLE
+
+
+
 
 
 
