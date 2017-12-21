@@ -64,7 +64,9 @@
 
 # GIT CONSOLE
 
-
+* git status -> files stutus ( modifed, added end nothing to )
+* git commit -a -m "some commit comment"  -> commit for all files
+* git push -> push to repository
 
 
 
