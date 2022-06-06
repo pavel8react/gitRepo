@@ -32,7 +32,7 @@
 **Revert commit** - revert to previous version<br/>
 **Reset** - Hard reset => удаляет все коммиты которые еще небыли загружены<br/>
 
-### IMAGE UPLOADING  (через сервис ibb.com)
+### IMAGE UPLOADING  (через сервис imgibb.com)
 
 **NEW FORK** - Отдельная полностью не зависемая ветка. Можно использовать для создание feature...<br/>
 
